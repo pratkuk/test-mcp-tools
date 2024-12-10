@@ -1,2 +1,2 @@
-# Test MCP Tools Repository
-This is a test repository to verify GitHub integration.
+# Test MCP Tools
+Testing GitHub integration functionality
